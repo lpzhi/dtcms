@@ -1,0 +1,21 @@
+2020-01-20 11:50:34.102 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-01-20 11:50:34.1035 [DEBUG] [server.go:376] DotWeb:HttpServer SetRenderer
+2020-01-20 11:50:34.1035 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.xMiddleware match
+2020-01-20 11:50:34.104 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-01-20 11:50:34.1045 [DEBUG] [dotweb.go:407] DotWeb RunMode is production
+2020-01-20 11:50:34.1045 [DEBUG] [server.go:104] DotWeb:HttpServer ListenAndServe [:80]
+2020-01-20 11:51:01.5575 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-01-20 11:51:01.558 [DEBUG] [router.go:372] DotWeb:Router:RegisterRoute AutoHead success [HEAD] [/index] [main.main.func1]
+2020-01-20 11:51:01.5595 [DEBUG] [router.go:386] DotWeb:Router:RegisterRoute AutoOPTIONS success [OPTIONS] [/index] [main.main.func1]
+2020-01-20 11:51:01.5605 [DEBUG] [server.go:376] DotWeb:HttpServer SetRenderer
+2020-01-20 11:51:01.561 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.xMiddleware match
+2020-01-20 11:51:01.5625 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-01-20 11:51:01.5645 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-01-20 11:51:01.565 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.xMiddleware match
+2020-01-20 11:51:01.5655 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-01-20 11:51:01.566 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-01-20 11:51:01.566 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.xMiddleware match
+2020-01-20 11:51:01.5665 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-01-20 11:51:01.567 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-01-20 11:51:01.5675 [DEBUG] [dotweb.go:407] DotWeb RunMode is development
+2020-01-20 11:51:01.568 [DEBUG] [server.go:104] DotWeb:HttpServer ListenAndServe [:80]
