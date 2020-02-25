@@ -1,0 +1,155 @@
+2020-02-25 13:30:23 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]开始...
+2020-02-25 13:30:23 - AppConfig::InitConfig Load AppSet Start
+2020-02-25 13:30:23 - AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2020-02-25 13:30:23 - AppConfig::InitConfig Load AppSet Finished [1]
+2020-02-25 13:30:23 - AppConfig::InitConfig Start Load RedisInfo
+2020-02-25 13:30:23 - AppConfig::InitConfig Load RedisInfo => {"ID":"default","ServerUrl":"redis://127.0.0.1:6379/0"}
+2020-02-25 13:30:23 - AppConfig::InitConfig Finish Load RedisInfo
+2020-02-25 13:30:23 - AppConfig::InitConfig Start Load DataBaseInfo
+2020-02-25 13:30:23 - AppConfig::InitConfig Load DataBaseInfo => {"ID":"dtcms","ServerUrl":"root:0987ABc123.@(127.0.0.1:3306)/dotcms?charset=utf8 \u0026 parseTime=True \u0026 loc=Local \u0026 allowNativePasswords=true","Ptype":""}
+2020-02-25 13:30:23 - AppConfig::InitConfig Finish Load DataBaseInfo
+2020-02-25 13:30:23 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]完成
+2020-02-25 13:33:14 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]开始...
+2020-02-25 13:33:14 - AppConfig::InitConfig Load AppSet Start
+2020-02-25 13:33:14 - AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2020-02-25 13:33:14 - AppConfig::InitConfig Load AppSet => {"Key":"ptype","Value":"mysql"}
+2020-02-25 13:33:14 - AppConfig::InitConfig Load AppSet Finished [2]
+2020-02-25 13:33:14 - AppConfig::InitConfig Start Load RedisInfo
+2020-02-25 13:33:14 - AppConfig::InitConfig Load RedisInfo => {"ID":"default","ServerUrl":"redis://127.0.0.1:6379/0"}
+2020-02-25 13:33:14 - AppConfig::InitConfig Finish Load RedisInfo
+2020-02-25 13:33:14 - AppConfig::InitConfig Start Load DataBaseInfo
+2020-02-25 13:33:14 - AppConfig::InitConfig Load DataBaseInfo => {"ID":"dtcms","ServerUrl":"root:0987ABc123.@(127.0.0.1:3306)/dotcms?charset=utf8 \u0026 parseTime=True \u0026 loc=Local \u0026 allowNativePasswords=true","Ptype":""}
+2020-02-25 13:33:14 - AppConfig::InitConfig Finish Load DataBaseInfo
+2020-02-25 13:33:14 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]完成
+2020-02-25 14:20:44 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]开始...
+2020-02-25 14:20:44 - AppConfig::InitConfig Load AppSet Start
+2020-02-25 14:20:44 - AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2020-02-25 14:20:44 - AppConfig::InitConfig Load AppSet => {"Key":"ptype","Value":"mysql"}
+2020-02-25 14:20:44 - AppConfig::InitConfig Load AppSet Finished [2]
+2020-02-25 14:20:44 - AppConfig::InitConfig Start Load RedisInfo
+2020-02-25 14:20:44 - AppConfig::InitConfig Load RedisInfo => {"ID":"default","ServerUrl":"redis://127.0.0.1:6379/0"}
+2020-02-25 14:20:44 - AppConfig::InitConfig Finish Load RedisInfo
+2020-02-25 14:20:44 - AppConfig::InitConfig Start Load DataBaseInfo
+2020-02-25 14:20:44 - AppConfig::InitConfig Load DataBaseInfo => {"ID":"dtcms","ServerUrl":"root:0987ABc123.@(127.0.0.1:3306)/dotcms?charset=utf8 \u0026 parseTime=True \u0026 loc=Local \u0026 allowNativePasswords=true","Ptype":""}
+2020-02-25 14:20:44 - AppConfig::InitConfig Finish Load DataBaseInfo
+2020-02-25 14:20:44 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]完成
+2020-02-25 14:22:38 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]开始...
+2020-02-25 14:22:38 - AppConfig::InitConfig Load AppSet Start
+2020-02-25 14:22:38 - AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2020-02-25 14:22:38 - AppConfig::InitConfig Load AppSet => {"Key":"ptype","Value":"mysql"}
+2020-02-25 14:22:38 - AppConfig::InitConfig Load AppSet Finished [2]
+2020-02-25 14:22:38 - AppConfig::InitConfig Start Load RedisInfo
+2020-02-25 14:22:38 - AppConfig::InitConfig Load RedisInfo => {"ID":"default","ServerUrl":"redis://127.0.0.1:6379/0"}
+2020-02-25 14:22:38 - AppConfig::InitConfig Finish Load RedisInfo
+2020-02-25 14:22:38 - AppConfig::InitConfig Start Load DataBaseInfo
+2020-02-25 14:22:38 - AppConfig::InitConfig Load DataBaseInfo => {"ID":"dtcms","ServerUrl":"root:0987ABc123.@(127.0.0.1:3306)/dotcms?charset=utf8 \u0026 parseTime=True \u0026 loc=Local \u0026 allowNativePasswords=true","Ptype":""}
+2020-02-25 14:22:38 - AppConfig::InitConfig Finish Load DataBaseInfo
+2020-02-25 14:22:38 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]完成
+2020-02-25 14:23:12 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]开始...
+2020-02-25 14:23:12 - AppConfig::InitConfig Load AppSet Start
+2020-02-25 14:23:12 - AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2020-02-25 14:23:12 - AppConfig::InitConfig Load AppSet => {"Key":"ptype","Value":"mysql"}
+2020-02-25 14:23:12 - AppConfig::InitConfig Load AppSet Finished [2]
+2020-02-25 14:23:12 - AppConfig::InitConfig Start Load RedisInfo
+2020-02-25 14:23:12 - AppConfig::InitConfig Load RedisInfo => {"ID":"default","ServerUrl":"redis://127.0.0.1:6379/0"}
+2020-02-25 14:23:12 - AppConfig::InitConfig Finish Load RedisInfo
+2020-02-25 14:23:12 - AppConfig::InitConfig Start Load DataBaseInfo
+2020-02-25 14:23:12 - AppConfig::InitConfig Load DataBaseInfo => {"ID":"dtcms","ServerUrl":"root:0987ABc123.@(127.0.0.1:3306)/dotcms?charset=utf8 \u0026 parseTime=True \u0026 loc=Local \u0026 allowNativePasswords=true","Ptype":""}
+2020-02-25 14:23:12 - AppConfig::InitConfig Finish Load DataBaseInfo
+2020-02-25 14:23:12 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]完成
+2020-02-25 14:23:28 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]开始...
+2020-02-25 14:23:28 - AppConfig::InitConfig Load AppSet Start
+2020-02-25 14:23:28 - AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2020-02-25 14:23:28 - AppConfig::InitConfig Load AppSet => {"Key":"ptype","Value":"mysql"}
+2020-02-25 14:23:28 - AppConfig::InitConfig Load AppSet Finished [2]
+2020-02-25 14:23:28 - AppConfig::InitConfig Start Load RedisInfo
+2020-02-25 14:23:28 - AppConfig::InitConfig Load RedisInfo => {"ID":"default","ServerUrl":"redis://127.0.0.1:6379/0"}
+2020-02-25 14:23:28 - AppConfig::InitConfig Finish Load RedisInfo
+2020-02-25 14:23:28 - AppConfig::InitConfig Start Load DataBaseInfo
+2020-02-25 14:23:28 - AppConfig::InitConfig Load DataBaseInfo => {"ID":"dtcms","ServerUrl":"root:0987ABc123.@(127.0.0.1:3306)/dotcms?charset=utf8 \u0026 parseTime=True \u0026 loc=Local \u0026 allowNativePasswords=true","Ptype":""}
+2020-02-25 14:23:28 - AppConfig::InitConfig Finish Load DataBaseInfo
+2020-02-25 14:23:28 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]完成
+2020-02-25 14:30:40 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]开始...
+2020-02-25 14:30:40 - AppConfig::InitConfig Load AppSet Start
+2020-02-25 14:30:40 - AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2020-02-25 14:30:40 - AppConfig::InitConfig Load AppSet => {"Key":"ptype","Value":"mysql"}
+2020-02-25 14:30:40 - AppConfig::InitConfig Load AppSet Finished [2]
+2020-02-25 14:30:40 - AppConfig::InitConfig Start Load RedisInfo
+2020-02-25 14:30:40 - AppConfig::InitConfig Load RedisInfo => {"ID":"default","ServerUrl":"redis://127.0.0.1:6379/0"}
+2020-02-25 14:30:40 - AppConfig::InitConfig Finish Load RedisInfo
+2020-02-25 14:30:40 - AppConfig::InitConfig Start Load DataBaseInfo
+2020-02-25 14:30:40 - AppConfig::InitConfig Load DataBaseInfo => {"ID":"dtcms","ServerUrl":"root:0987ABc123.@(127.0.0.1:3306)/dotcms?charset=utf8  \u0026 loc=Local \u0026 allowNativePasswords=true","Ptype":""}
+2020-02-25 14:30:40 - AppConfig::InitConfig Finish Load DataBaseInfo
+2020-02-25 14:30:40 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]完成
+2020-02-25 14:31:10 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]开始...
+2020-02-25 14:31:10 - AppConfig::InitConfig Load AppSet Start
+2020-02-25 14:31:10 - AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2020-02-25 14:31:10 - AppConfig::InitConfig Load AppSet => {"Key":"ptype","Value":"mysql"}
+2020-02-25 14:31:10 - AppConfig::InitConfig Load AppSet Finished [2]
+2020-02-25 14:31:10 - AppConfig::InitConfig Start Load RedisInfo
+2020-02-25 14:31:10 - AppConfig::InitConfig Load RedisInfo => {"ID":"default","ServerUrl":"redis://127.0.0.1:6379/0"}
+2020-02-25 14:31:10 - AppConfig::InitConfig Finish Load RedisInfo
+2020-02-25 14:31:10 - AppConfig::InitConfig Start Load DataBaseInfo
+2020-02-25 14:31:10 - AppConfig::InitConfig Load DataBaseInfo => {"ID":"dtcms","ServerUrl":"root:0987ABc123.@(127.0.0.1:3306)/dotcms?charset=utf8\u0026loc=Local\u0026allowNativePasswords=true","Ptype":""}
+2020-02-25 14:31:10 - AppConfig::InitConfig Finish Load DataBaseInfo
+2020-02-25 14:31:10 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]完成
+2020-02-25 16:11:52 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]开始...
+2020-02-25 16:11:52 - AppConfig::InitConfig Load AppSet Start
+2020-02-25 16:11:52 - AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2020-02-25 16:11:52 - AppConfig::InitConfig Load AppSet => {"Key":"ptype","Value":"mysql"}
+2020-02-25 16:11:52 - AppConfig::InitConfig Load AppSet Finished [2]
+2020-02-25 16:11:52 - AppConfig::InitConfig Start Load RedisInfo
+2020-02-25 16:11:52 - AppConfig::InitConfig Load RedisInfo => {"ID":"default","ServerUrl":"redis://127.0.0.1:6379/0"}
+2020-02-25 16:11:52 - AppConfig::InitConfig Finish Load RedisInfo
+2020-02-25 16:11:52 - AppConfig::InitConfig Start Load DataBaseInfo
+2020-02-25 16:11:52 - AppConfig::InitConfig Load DataBaseInfo => {"ID":"dtcms","ServerUrl":"root:0987ABc123.@(127.0.0.1:3306)/dotcms?charset=utf8\u0026loc=Local\u0026allowNativePasswords=true","Ptype":""}
+2020-02-25 16:11:52 - AppConfig::InitConfig Finish Load DataBaseInfo
+2020-02-25 16:11:52 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]完成
+2020-02-25 16:13:13 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]开始...
+2020-02-25 16:13:13 - AppConfig::InitConfig Load AppSet Start
+2020-02-25 16:13:13 - AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2020-02-25 16:13:13 - AppConfig::InitConfig Load AppSet => {"Key":"ptype","Value":"mysql"}
+2020-02-25 16:13:13 - AppConfig::InitConfig Load AppSet Finished [2]
+2020-02-25 16:13:13 - AppConfig::InitConfig Start Load RedisInfo
+2020-02-25 16:13:13 - AppConfig::InitConfig Load RedisInfo => {"ID":"default","ServerUrl":"redis://127.0.0.1:6379/0"}
+2020-02-25 16:13:13 - AppConfig::InitConfig Finish Load RedisInfo
+2020-02-25 16:13:13 - AppConfig::InitConfig Start Load DataBaseInfo
+2020-02-25 16:13:13 - AppConfig::InitConfig Load DataBaseInfo => {"ID":"dtcms","ServerUrl":"root:0987ABc123.@(127.0.0.1:3306)/dotcms?charset=utf8\u0026loc=Local\u0026allowNativePasswords=true","Ptype":""}
+2020-02-25 16:13:13 - AppConfig::InitConfig Finish Load DataBaseInfo
+2020-02-25 16:13:13 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]完成
+2020-02-25 16:14:51 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]开始...
+2020-02-25 16:14:51 - AppConfig::InitConfig Load AppSet Start
+2020-02-25 16:14:51 - AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2020-02-25 16:14:51 - AppConfig::InitConfig Load AppSet => {"Key":"ptype","Value":"mysql"}
+2020-02-25 16:14:51 - AppConfig::InitConfig Load AppSet Finished [2]
+2020-02-25 16:14:51 - AppConfig::InitConfig Start Load RedisInfo
+2020-02-25 16:14:51 - AppConfig::InitConfig Load RedisInfo => {"ID":"default","ServerUrl":"redis://127.0.0.1:6379/0"}
+2020-02-25 16:14:51 - AppConfig::InitConfig Finish Load RedisInfo
+2020-02-25 16:14:51 - AppConfig::InitConfig Start Load DataBaseInfo
+2020-02-25 16:14:51 - AppConfig::InitConfig Load DataBaseInfo => {"ID":"dtcms","ServerUrl":"root:0987ABc123.@(127.0.0.1:3306)/dotcms?charset=utf8\u0026loc=Local\u0026allowNativePasswords=true","Ptype":""}
+2020-02-25 16:14:51 - AppConfig::InitConfig Finish Load DataBaseInfo
+2020-02-25 16:14:51 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]完成
+2020-02-25 16:37:37 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]开始...
+2020-02-25 16:37:37 - AppConfig::InitConfig Load AppSet Start
+2020-02-25 16:37:37 - AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2020-02-25 16:37:37 - AppConfig::InitConfig Load AppSet => {"Key":"ptype","Value":"mysql"}
+2020-02-25 16:37:37 - AppConfig::InitConfig Load AppSet Finished [2]
+2020-02-25 16:37:37 - AppConfig::InitConfig Start Load RedisInfo
+2020-02-25 16:37:37 - AppConfig::InitConfig Load RedisInfo => {"ID":"default","ServerUrl":"redis://127.0.0.1:6379/0"}
+2020-02-25 16:37:37 - AppConfig::InitConfig Finish Load RedisInfo
+2020-02-25 16:37:37 - AppConfig::InitConfig Start Load DataBaseInfo
+2020-02-25 16:37:37 - AppConfig::InitConfig Load DataBaseInfo => {"ID":"dtcms","ServerUrl":"root:0987ABc123.@(127.0.0.1:3306)/dotcms?charset=utf8\u0026loc=Local\u0026allowNativePasswords=true","Ptype":""}
+2020-02-25 16:37:37 - AppConfig::InitConfig Finish Load DataBaseInfo
+2020-02-25 16:37:37 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]完成
+2020-02-25 17:47:00 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]开始...
+2020-02-25 17:47:00 - AppConfig::InitConfig Load AppSet Start
+2020-02-25 17:47:00 - AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2020-02-25 17:47:00 - AppConfig::InitConfig Load AppSet => {"Key":"ptype","Value":"mysql"}
+2020-02-25 17:47:00 - AppConfig::InitConfig Load AppSet Finished [2]
+2020-02-25 17:47:00 - AppConfig::InitConfig Start Load RedisInfo
+2020-02-25 17:47:00 - AppConfig::InitConfig Load RedisInfo => {"ID":"default","ServerUrl":"redis://127.0.0.1:6379/0"}
+2020-02-25 17:47:00 - AppConfig::InitConfig Finish Load RedisInfo
+2020-02-25 17:47:00 - AppConfig::InitConfig Start Load DataBaseInfo
+2020-02-25 17:47:00 - AppConfig::InitConfig Load DataBaseInfo => {"ID":"dtcms","ServerUrl":"root:0987ABc123.@(127.0.0.1:3306)/dotcms?charset=utf8\u0026loc=Local\u0026allowNativePasswords=true","Ptype":""}
+2020-02-25 17:47:00 - AppConfig::InitConfig Finish Load DataBaseInfo
+2020-02-25 17:47:00 - AppConfig::InitConfig 配置文件[/Users/lupeng/golang/src/dtcms/bin/conf/develop/app.conf]完成

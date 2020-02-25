@@ -1,0 +1,108 @@
+2020-02-23 16:59:02.2916 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-02-23 16:59:02.2919 [DEBUG] [router.go:372] DotWeb:Router:RegisterRoute AutoHead success [HEAD] [/index] [main.main.func1]
+2020-02-23 16:59:02.2921 [DEBUG] [router.go:386] DotWeb:Router:RegisterRoute AutoOPTIONS success [OPTIONS] [/index] [main.main.func1]
+2020-02-23 16:59:02.2957 [DEBUG] [server.go:376] DotWeb:HttpServer SetRenderer
+2020-02-23 16:59:02.2959 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.xMiddleware match
+2020-02-23 16:59:02.296 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 16:59:02.2961 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 16:59:02.2962 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.xMiddleware match
+2020-02-23 16:59:02.2963 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 16:59:02.2964 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 16:59:02.2964 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.xMiddleware match
+2020-02-23 16:59:02.2965 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 16:59:02.2966 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 16:59:02.2966 [DEBUG] [dotweb.go:407] DotWeb RunMode is development
+2020-02-23 16:59:02.2967 [DEBUG] [server.go:104] DotWeb:HttpServer ListenAndServe [:8080]
+2020-02-23 17:00:59.6828 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-02-23 17:00:59.683 [DEBUG] [router.go:372] DotWeb:Router:RegisterRoute AutoHead success [HEAD] [/index] [main.main.func1]
+2020-02-23 17:00:59.6832 [DEBUG] [router.go:386] DotWeb:Router:RegisterRoute AutoOPTIONS success [OPTIONS] [/index] [main.main.func1]
+2020-02-23 17:00:59.6878 [DEBUG] [server.go:376] DotWeb:HttpServer SetRenderer
+2020-02-23 17:00:59.688 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.xMiddleware match
+2020-02-23 17:00:59.6881 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:00:59.6882 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:00:59.6883 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.xMiddleware match
+2020-02-23 17:00:59.6885 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:00:59.6886 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:00:59.6887 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.xMiddleware match
+2020-02-23 17:00:59.6888 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:00:59.6889 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:00:59.689 [DEBUG] [dotweb.go:407] DotWeb RunMode is development
+2020-02-23 17:00:59.6891 [DEBUG] [server.go:104] DotWeb:HttpServer ListenAndServe [:8080]
+2020-02-23 17:01:10.8578 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-02-23 17:01:10.8581 [DEBUG] [router.go:372] DotWeb:Router:RegisterRoute AutoHead success [HEAD] [/index] [main.main.func1]
+2020-02-23 17:01:10.8582 [DEBUG] [router.go:386] DotWeb:Router:RegisterRoute AutoOPTIONS success [OPTIONS] [/index] [main.main.func1]
+2020-02-23 17:01:10.863 [DEBUG] [server.go:376] DotWeb:HttpServer SetRenderer
+2020-02-23 17:01:10.8633 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.xMiddleware match
+2020-02-23 17:01:10.8635 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:01:10.8637 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:01:10.8638 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.xMiddleware match
+2020-02-23 17:01:10.8639 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:01:10.864 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:01:10.8641 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.xMiddleware match
+2020-02-23 17:01:10.8642 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:01:10.8643 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:01:10.8644 [DEBUG] [dotweb.go:407] DotWeb RunMode is development
+2020-02-23 17:01:10.8645 [DEBUG] [server.go:104] DotWeb:HttpServer ListenAndServe [:8080]
+2020-02-23 17:01:35.8482 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-02-23 17:01:35.8484 [DEBUG] [router.go:372] DotWeb:Router:RegisterRoute AutoHead success [HEAD] [/index] [main.main.func1]
+2020-02-23 17:01:35.8485 [DEBUG] [router.go:386] DotWeb:Router:RegisterRoute AutoOPTIONS success [OPTIONS] [/index] [main.main.func1]
+2020-02-23 17:01:35.8514 [DEBUG] [server.go:376] DotWeb:HttpServer SetRenderer
+2020-02-23 17:01:35.8516 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.xMiddleware match
+2020-02-23 17:01:35.8517 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:01:35.8518 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:01:35.8519 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.xMiddleware match
+2020-02-23 17:01:35.8521 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:01:35.8522 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:01:35.8523 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.xMiddleware match
+2020-02-23 17:01:35.8524 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:01:35.8525 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:01:35.8527 [DEBUG] [dotweb.go:407] DotWeb RunMode is development
+2020-02-23 17:01:35.8528 [DEBUG] [server.go:104] DotWeb:HttpServer ListenAndServe [:8080]
+2020-02-23 17:02:29.0845 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-02-23 17:02:29.0849 [DEBUG] [router.go:372] DotWeb:Router:RegisterRoute AutoHead success [HEAD] [/index] [main.main.func1]
+2020-02-23 17:02:29.0851 [DEBUG] [router.go:386] DotWeb:Router:RegisterRoute AutoOPTIONS success [OPTIONS] [/index] [main.main.func1]
+2020-02-23 17:02:29.0898 [DEBUG] [server.go:376] DotWeb:HttpServer SetRenderer
+2020-02-23 17:02:29.0902 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.xMiddleware match
+2020-02-23 17:02:29.0905 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:02:29.0914 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:02:29.0916 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.xMiddleware match
+2020-02-23 17:02:29.0917 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:02:29.092 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:02:29.0922 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.xMiddleware match
+2020-02-23 17:02:29.0925 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:02:29.0928 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:02:29.093 [DEBUG] [dotweb.go:407] DotWeb RunMode is development
+2020-02-23 17:02:29.0932 [DEBUG] [server.go:104] DotWeb:HttpServer ListenAndServe [:8080]
+2020-02-23 17:47:09.6865 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-02-23 17:47:09.6871 [DEBUG] [router.go:372] DotWeb:Router:RegisterRoute AutoHead success [HEAD] [/index] [main.main.func1]
+2020-02-23 17:47:09.6873 [DEBUG] [router.go:386] DotWeb:Router:RegisterRoute AutoOPTIONS success [OPTIONS] [/index] [main.main.func1]
+2020-02-23 17:47:09.6928 [DEBUG] [server.go:376] DotWeb:HttpServer SetRenderer
+2020-02-23 17:47:09.693 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.xMiddleware match
+2020-02-23 17:47:09.6932 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:47:09.6934 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] GET^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:47:09.6935 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.xMiddleware match
+2020-02-23 17:47:09.6936 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:47:09.6937 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] HEAD^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:47:09.6939 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.xMiddleware match
+2020-02-23 17:47:09.694 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:47:09.6942 [DEBUG] [dotweb.go:554] DotWeb initBindMiddleware [app] OPTIONS^$^/index *dotweb.RequestLogMiddleware match
+2020-02-23 17:47:09.6944 [DEBUG] [dotweb.go:407] DotWeb RunMode is development
+2020-02-23 17:47:09.6946 [DEBUG] [server.go:104] DotWeb:HttpServer ListenAndServe [:8080]
+2020-02-23 23:43:51.1302 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-02-23 23:43:51.1311 [DEBUG] [router.go:372] DotWeb:Router:RegisterRoute AutoHead success [HEAD] [/index] [main.main.func1]
+2020-02-23 23:43:51.1313 [DEBUG] [router.go:386] DotWeb:Router:RegisterRoute AutoOPTIONS success [OPTIONS] [/index] [main.main.func1]
+2020-02-23 23:44:24.1905 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-02-23 23:44:24.1907 [DEBUG] [router.go:372] DotWeb:Router:RegisterRoute AutoHead success [HEAD] [/index] [main.main.func1]
+2020-02-23 23:44:24.1908 [DEBUG] [router.go:386] DotWeb:Router:RegisterRoute AutoOPTIONS success [OPTIONS] [/index] [main.main.func1]
+2020-02-23 23:44:57.821 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-02-23 23:44:57.8212 [DEBUG] [router.go:372] DotWeb:Router:RegisterRoute AutoHead success [HEAD] [/index] [main.main.func1]
+2020-02-23 23:44:57.8213 [DEBUG] [router.go:386] DotWeb:Router:RegisterRoute AutoOPTIONS success [OPTIONS] [/index] [main.main.func1]
+2020-02-23 23:45:28.0692 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-02-23 23:45:28.0695 [DEBUG] [router.go:372] DotWeb:Router:RegisterRoute AutoHead success [HEAD] [/index] [main.main.func1]
+2020-02-23 23:45:28.0696 [DEBUG] [router.go:386] DotWeb:Router:RegisterRoute AutoOPTIONS success [OPTIONS] [/index] [main.main.func1]
+2020-02-23 23:45:31.5605 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-02-23 23:45:31.5608 [DEBUG] [router.go:372] DotWeb:Router:RegisterRoute AutoHead success [HEAD] [/index] [main.main.func1]
+2020-02-23 23:45:31.561 [DEBUG] [router.go:386] DotWeb:Router:RegisterRoute AutoOPTIONS success [OPTIONS] [/index] [main.main.func1]
+2020-02-23 23:45:55.8739 [DEBUG] [router.go:360] DotWeb:Router:RegisterRoute success [GET] [/index] [main.main.func1]
+2020-02-23 23:45:55.8741 [DEBUG] [router.go:372] DotWeb:Router:RegisterRoute AutoHead success [HEAD] [/index] [main.main.func1]
+2020-02-23 23:45:55.8742 [DEBUG] [router.go:386] DotWeb:Router:RegisterRoute AutoOPTIONS success [OPTIONS] [/index] [main.main.func1]
